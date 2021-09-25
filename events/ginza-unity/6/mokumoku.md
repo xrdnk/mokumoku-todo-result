@@ -22,7 +22,7 @@
   - Fast Mode : ビルド不要　開発中に使える
   - Remote Host Build : リモートサーバからアセットを読み込む　本番用に使える
 
-- イベント処理・コルーチンが嫌なので，所々 UniTask にした（UniTask で便利に API をラッピングするのを作った)
+- イベント処理・コルーチンが嫌なので，所々 async / await にした（UniTask で便利に API をラッピングするのを作った)
 
 - アセットのダウンロードサイズの取得が生 Asset Bundle の時は苦労したのに， Addressable だと `Addressables.GetDownloadSizeAsync(ADDRESSES)` で出来てしまって泣いちゃった （iOS審査対応対策あるある）
 
