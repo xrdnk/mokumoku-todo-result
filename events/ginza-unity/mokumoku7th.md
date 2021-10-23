@@ -26,7 +26,8 @@ https://xrdnk.hateblo.jp/entry/2021/10/23/151900
 
 - 17:00 過ぎあたりから疲れたので，めちゃバースの負荷試験に参加してた
 
-https://gyazo.com/d2da2bb293efce635513ac9406786775
+https://gyazo.com/d2da2bb293efce635513ac9406786775 
+</br>
 https://gyazo.com/9a72be6e1f386bb585e7fe93e3175f79
 
 # LEARN 
