@@ -8,17 +8,17 @@
 - Unity Game Service の Cloud Save の CRUD 一通りのサンプルを作り終える
 - 現在開発中のVRシミュレーションゲームのデータベース関連の整理を行う
 
-# RESULT
+# FUN 
+
+- TBD
+
+# (DONE) RESULT
 
 - Cloud Save に手を出す前に，Unity Authentication を理解してサインイン処理しないといけなかった
 - よって先に Unity Authentication を勉強して匿名サインイン・アウト処理を実装した
 - ブログ記事投稿した
 
 https://xrdnk.hateblo.jp/entry/2021/10/23/151900
-
-# FUN 
-
-- TBD
 
 # LEARN 
 
