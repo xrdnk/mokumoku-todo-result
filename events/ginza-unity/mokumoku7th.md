@@ -5,7 +5,7 @@
 
 # OBJECTIVE
 
-- Unity Game Service の Cloud Save の CRUD 一通りのサンプルを作り終える
+- Unity Gaming Service の Cloud Save の CRUD 一通りのサンプルを作り終える
 - 現在開発中のVRシミュレーションゲームのデータベース関連の整理を行う
 
 # FUN 
