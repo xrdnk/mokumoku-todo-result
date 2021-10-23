@@ -23,10 +23,9 @@ https://xrdnk.hateblo.jp/entry/2021/10/23/151900
 # LEARN 
 
 - Unity Gaming Services の Unity Authentication を完全に理解した
-- 
 
 # TRY
 
 - 次こそ Cloud Save を理解して，クラウド上でデータを保存してみるのをやってみたい
-- 茶道VRの実装頑張る…
+- 茶道VRの実装を引き続き頑張る…
 
