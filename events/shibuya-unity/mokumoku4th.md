@@ -1,27 +1,32 @@
 # TODO
 
-- Unity Gaming Services の Relay，Lobby の学習と理解
+- Unity Gaming Services の Relay 学習と理解
 
 # OBJECTIVE
 
 - Unity Gaming Service の Relay のサンプルを作る
 - Relay に関するブログ記事を作る
-- Unity Gaming Service の Lobby のサンプルを作る
-- Lobby に関するブログ記事を50パーセントまで作る
 
 # FUN 
 
-- TBD
+- ミクシィさんの中に入れた
+- 品川 Microsoft 以来のペットボトル飲料飲み放題 
 
 # (DONE) RESULT
 
-- TBD
+- [x] Unity Gaming Service の Relay のサンプルを作る
+- [x] Relay に関するブログ記事を作る
+
+記事作成できた．</br>
+Unity Relay β でリレーサーバを建てて入室する【Unity Gaming Services】 - デニッキ！</br>
+https://xrdnk.hateblo.jp/entry/2021/10/30/175456 </br>
 
 # LEARN 
 
-- TBD
+- Unity Relay の仕組みがわかった
 
 # TRY
 
-- TBD
+- Unity Lobby の学習と理解
+- Unity Lobby と Unity Relay と組み合わせて使ってみる
 
