@@ -6,7 +6,7 @@
 # OBJECTIVE
 
 - Unity Gaming Service の Lobby に関するブログを作る
-- Relay に関するブログ記事を作る
+- 自分なりに進捗50パーセントくらいの気持ちになれば
 
 # FUN 
 
