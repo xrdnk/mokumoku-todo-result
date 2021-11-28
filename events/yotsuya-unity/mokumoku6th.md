@@ -31,7 +31,7 @@ https://github.com/xrdnk/UnityScreenNavigatorExercise
 
 ## 茶道VR
 
-
+- XR Interaction Toolkit を廃止して，Oculus Integration に移行作業した
 
 # FUN 
 
