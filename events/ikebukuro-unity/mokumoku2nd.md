@@ -8,12 +8,13 @@
 
 # DONE・RESULT
 
-- TODO
+- Poke Interactable 完全理解中
+- ブログ執筆進捗8割
 
 # FUN 
 
-- TODO
+- 久しぶりに池袋サンシャインシティに来たけどやっぱり色々人がスゴイ
 
 # TRY
 
-- TODO
+- 引き続き Interaction SDK を理解する
