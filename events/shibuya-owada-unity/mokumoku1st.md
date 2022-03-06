@@ -19,6 +19,9 @@
     - [ ] シーン遷移時のフェードイン・フェードアウト
     - [ ] Locomotion 実行時のフェードイン・フェードアウト 
 
+【Unity】Universal Render Pipelineで独自のレンダリングパスを追加する</br>
+https://light11.hatenadiary.com/entry/2021/07/28/203152
+
 # FUN 
 
 文化総合センター大和田には初めてきたので楽しかったです．
