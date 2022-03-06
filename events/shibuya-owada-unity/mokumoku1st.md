@@ -7,6 +7,7 @@
 ## 茶道VRの進捗を生む
 
 - [x] XR フレームワークを XR Interaction Toolkit 2.0 に移植
+- [x] Player (IPlayer) クラスの実装
 - [x] Locomotion モードの切り替えのためのドメインレイヤー実装
   - [x] LocomotionConfigurator (Locomotion 設定用のドメインクラス) の実装
   - [x] ProjectContext ScriptableObjectInstaller 実装 
