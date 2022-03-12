@@ -28,7 +28,7 @@ MyDearest, Inc.｜Dyschronia 鋭意制作中です </br>
 - [x] プレイヤーやフェーダの設定は Extenject の ProjectContext 側で管理できるようにする
 - [ ] ロコモーション設定の UI 作成(移動モード設定・回転モード設定・トンネル効果設定・スナップ角度設定)
 
-URP RenderPass/ RenderFeature の設定が反映されなくて数時間原因調査しながら戦った</br>
+URP RenderPass/ RenderFeature の設定が反映されなくて数時間原因調査しながら戦った．</br>
 原因は Graphics だけでなく Quality 側でも Render Pipeline Asset の設定項目があり，</br>
 そこで該当 Asset が設定されていなかったのが問題だった．今日中に解決してよかった．</br>
 
