@@ -14,6 +14,7 @@ MyDearest, Inc.｜Dyschronia 鋭意制作中です </br>
 - XR Interaction Toolkit 2.0.1 にアップグレード
 - シーン遷移時に VR のフェードイン・フェードアウトできるようにする
 - シーン遷移時は移動・回転できないようにする
+- プレイヤーやフェーダの設定は Extenject の ProjectContext 側で管理できるようにする
 - ロコモーション設定の UI 作成(移動モード設定・回転モード設定・トンネル効果設定・スナップ角度設定)
 
 # DONE・RESULT
@@ -24,6 +25,7 @@ MyDearest, Inc.｜Dyschronia 鋭意制作中です </br>
 - [x] XR Interaction Toolkit 2.0.1 にアップグレード
 - [x] シーン遷移時に VR のフェードイン・フェードアウトできるようにする
 - [x] シーン遷移時は移動・回転できないようにする
+- [x] プレイヤーやフェーダの設定は Extenject の ProjectContext 側で管理できるようにする
 - [ ] ロコモーション設定の UI 作成(移動モード設定・回転モード設定・トンネル効果設定・スナップ角度設定)
 
 URP RenderPass/ RenderFeature の設定が反映されなくて数時間原因調査しながら戦った</br>
